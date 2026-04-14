@@ -1,0 +1,58 @@
+const products = [
+  {
+    name: "Varsity Tee",
+    description: "Heavyweight cotton tee with contrast stitching and embroidered logo. Garment-dyed for a worn-in look from day one.",
+    price: 49.99,
+    category: "apparel",
+    countInStock: 12,
+    emoji: "👕",
+    badge: "NEW",
+  },
+  {
+    name: "Arc Shell Jacket",
+    description: "Windproof nylon shell with taped seams and a minimal silhouette. Goes from city to trail without missing a beat.",
+    price: 189.99,
+    category: "apparel",
+    countInStock: 6,
+    emoji: "🧥",
+    badge: "HOT",
+  },
+  {
+    name: "Low Pro Sneaker",
+    description: "Clean vulcanised sole with premium suede upper. A blank canvas that goes with everything.",
+    price: 129.0,
+    category: "footwear",
+    countInStock: 8,
+    emoji: "👟",
+    badge: null,
+  },
+  {
+    name: "Trail Hiker Boot",
+    description: "Full-grain leather with Vibram outsole. Waterproof membrane keeps you dry in all conditions.",
+    price: 219.0,
+    category: "footwear",
+    countInStock: 4,
+    emoji: "🥾",
+    badge: null,
+  },
+  {
+    name: "Logo Cap",
+    description: "Unstructured 6-panel cap in washed cotton twill. Adjustable strap for a perfect fit every time.",
+    price: 34.99,
+    category: "accessories",
+    countInStock: 20,
+    emoji: "🧢",
+    badge: "NEW",
+  },
+  {
+    name: "Cargo 30L Pack",
+    description: "Laptop sleeve, water bottle pocket, and padded harness. The only pack you will ever need.",
+    price: 149.0,
+    category: "gear",
+    countInStock: 5,
+    emoji: "🎒",
+    badge: null,
+  },
+];
+
+export default productData;
