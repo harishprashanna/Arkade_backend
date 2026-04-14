@@ -54,7 +54,7 @@ Arkade_backend/
 ## Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/harishprashanna/Arkade_backend.git  
+git clone https://github.com/harishprashanna/Arkade_backend.git
 cd Arkade_backend  
 
 ### 2. Install dependencies
