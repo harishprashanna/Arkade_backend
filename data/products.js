@@ -55,4 +55,4 @@ const products = [
   },
 ];
 
-export default productData;
+export default products;
