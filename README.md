@@ -65,9 +65,9 @@ npm install
 
 Create a `.env` file inside `backend/`:
 
-PORT=5000  
-MONGO_URI=your_mongodb_connection_string  
-JWT_SECRET=your_secret_key  
+PORT=5000
+MONGO_URI=mongodb+srv://arkade:arkade123@cluster0.ca4h1j0.mongodb.net/?appName=Cluster0
+JWT_SECRET=arkade_super_secret_key_2026_secure_random_string  
 
 ### 4. Run the server
 npm run dev  
